@@ -1,0 +1,29 @@
+1. KPI’s
+
+a. Total Revenue
+b. Average Order Value
+c. Total Pizzas Sold
+d. Total Orders
+e. Average Pizzas Per Order
+
+2. Daily Trend for Total Orders
+
+3. Monthly Trend for Orders
+
+4. % of Sales by Pizza Category
+
+5. % of Sales by Pizza Size
+
+6. Total Pizzas Sold by Pizza Category
+
+7. Top 5 Pizzas by Revenue
+
+8. Bottom 5 Pizzas by Revenue
+
+9. Top 5 Pizzas by Quantity
+
+10. Bottom 5 Pizzas by Quantity
+
+11. Top 5 Pizzas by Total Orders
+
+12. Bottom 5 Pizzas by Total Orders
